@@ -34,13 +34,11 @@ href="https://https://youtu.be/hJA9vnxwoHU?si=yXEeZ_3YMTQgukAe
 <img src="https://img.youtube.com/vi/zRi5vOwNF1U/maxresdefault.jpg" />
 </a>
 <a
-href="https://www.youtube.com/watch?v=bo_efYhYU2A&list=RDYQHsXMglC9A&index=3"
->
+href="https://www.https://youtu.be/J2rTdu7vqTE?si=XJF21MO0zjXHlTWz
 <img src="https://img.youtube.com/vi/bo_efYhYU2A/maxresdefault.jpg" />
 </a>
 <a
-href="https://www.youtube.com/watch?v=zvFroLUxRDQ&list=RDYQHsXMglC9A&index=2
-7">
+href="https://www.https://youtu.be/9sE5kEnitqE?si=8JJnVb48Ejb3K2hl
 <img src="https://img.youtube.com/vi/zvFroLUxRDQ/maxresdefault.jpg" />
 </a>
 <a
