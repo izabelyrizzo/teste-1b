@@ -30,8 +30,7 @@ when-cross-origin" allowfullscreen></iframe>
 <h2>Estilo de músicas</h2>
 <div class="categoria-videos">
 <a
-href="https://www.youtube.com/watch?v=zRi5vOwNF1U&list=RDzRi5vOwNF1U&start_radi
-o=1">
+href="https://https://youtu.be/hJA9vnxwoHU?si=yXEeZ_3YMTQgukAe
 <img src="https://img.youtube.com/vi/zRi5vOwNF1U/maxresdefault.jpg" />
 </a>
 <a
