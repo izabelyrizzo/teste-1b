@@ -14,12 +14,11 @@ rel="stylesheet">
 <section class="chamada">
 <div class="chamada-texto">
 <h1>The Time of My Life</h1>
-<p>Bill & McKenna Medley</p>
+<p>Bill & Trio Parada Dura Medley</p>
 </div>
 <div>
 <iframe width="560" height="315"
-src="https://www.youtube.com/embed/H1MS6apBgzA?si=Q_bCkU99I9AoL1pJ"
-
+src="https://https://youtu.be/7VMC2RzbAJ0?si=7ODfhec6kykiX8jM
 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-
 write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-
 when-cross-origin" allowfullscreen></iframe>
@@ -30,8 +29,8 @@ when-cross-origin" allowfullscreen></iframe>
 <h2>Estilo de músicas</h2>
 <div class="categoria-videos">
 <a
-href="https://https://youtu.be/hJA9vnxwoHU?si=yXEeZ_3YMTQgukAe
-<img src="https://img.youtube.com/vi/zRi5vOwNF1U/maxresdefault.jpg" />
+href="https://https://https://youtu.be/nHIm8AGg_7Q?si=cPZj-d1AEOYN0M58
+<img src="https://img.y.jpg"https://youtu.be/nHIm8AGg_7Q?si=cPZj-d1AEOYN0M58 />
 </a>
 <a
 href="https://www.https://youtu.be/J2rTdu7vqTE?si=XJF21MO0zjXHlTWz
