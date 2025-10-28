@@ -12,16 +12,13 @@
   />
   <title>AutoShowcase - BMW, Bugatti e Civic</title>
 </head>
-
 <body>
   <header>AutoShowcase</header>
-
   <section class="chamada">
     <div class="chamada-texto">
       <h1>Os Carros Mais Incríveis do Mundo</h1>
       <p>BMW, Bugatti e Honda Civic — velocidade, estilo e potência.</p>
     </div>
-
     <div>
       <!-- VÍDEO DO YOUTUBE COM CARROS ESPORTIVOS -->
       <iframe
@@ -36,7 +33,6 @@
       </iframe>
     </div>
   </section>
-
   <section class="categoria">
     <h2>Modelos em Destaque</h2>
 
@@ -44,11 +40,9 @@
       <a href="https://www.bmw.com" target="_blank">
         <img src="https://cdn.pixabay.com/photo/2016/11/29/12/54/bmw-1868721_1280.jpg" alt="BMW Esportiva" />
       </a>
-
       <a href="https://www.bugatti.com" target="_blank">
         <img src="https://cdn.pixabay.com/photo/2017/01/06/19/15/bugatti-1950363_1280.jpg" alt="Bugatti Chiron" />
       </a>
-
       <a href="https://automobiles.honda.com/civic-sedan" target="_blank">
         <img src="https://cdn.pixabay.com/photo/2017/02/01/10/43/honda-civic-2036140_1280.jpg" alt="Honda Civic" />
       </a>
