@@ -14,28 +14,54 @@
 </head>
 <body>
   <header>AutoShowcase</header>
+
+  <!-- SEÇÃO PRINCIPAL COM IMAGEM DE FUNDO -->
   <section class="chamada">
     <div class="chamada-texto">
       <h1>Os Carros Mais Incríveis do Mundo</h1>
       <p>BMW, Bugatti e Honda Civic — velocidade, estilo e potência.</p>
     </div>
-    <div>
-      <!-- VÍDEO DO YOUTUBE COM CARROS ESPORTIVOS -->
-      <iframe
-        width="560"
-        height="315"
-        src="https://<iframe width="560" height="315" src="https://www.youtube.com/embed/uK3-1GdfkIU?si=z8TqgXI4caXvsOXF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        title="Trifit Cars - BMW, Bugatti e Civic"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        referrerpolicy="strict-origin-when-cross-origin"
-        allowfullscreen>
-      </iframe>
+  </section>
+
+  <!-- SEÇÃO DE VÍDEOS -->
+  <section class="videos">
+    <h2>Vídeos em Destaque</h2>
+    <div class="videos-container">
+      <!-- VÍDEO BUGATTI -->
+      <div class="video-item">
+        <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/NMThdHhrLoM"
+          title="BUGATTI CHIRON Pur Sport: ’C’ the Drift"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen>
+        </iframe>
+        <p>Bugatti Chiron Pur Sport – “C the Drift”</p>
+      </div>
+
+      <!-- VÍDEO CIVIC TYPE R -->
+      <div class="video-item">
+        <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/aRZa2wTeRuw"
+          title="Civic Type R Cinematic Film | 4K"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen>
+        </iframe>
+        <p>Honda Civic Type R – Cinematic Film</p>
+      </div>
     </div>
   </section>
+
+  <!-- SEÇÃO DE MODELOS -->
   <section class="categoria">
     <h2>Modelos em Destaque</h2>
-
     <div class="categoria-videos">
       <a href="https://www.bmw.com" target="_blank">
         <img src="https://cdn.pixabay.com/photo/2016/11/29/12/54/bmw-1868721_1280.jpg" alt="BMW Esportiva" />
