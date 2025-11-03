@@ -24,9 +24,6 @@
       <iframe
         width="560"
         height="315"
-        
-        <img width="1500" height="1101" alt="image" src="https://github.com/user-attachments/assets/12e10860-4569-44b3-ad28-f6e3870bdb81" />
-
         src="https://<iframe width="560" height="315" src="https://www.youtube.com/embed/uK3-1GdfkIU?si=z8TqgXI4caXvsOXF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         title="Trifit Cars - BMW, Bugatti e Civic"
         frameborder="0"
